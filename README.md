@@ -53,7 +53,7 @@ plt.show()
 ```
 
 ## Output:
-![](./uni%203.png)
+![](./uni3.png)
 ![](./uni.jpg)
 ![](./uni%202.jpg)
 
