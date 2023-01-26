@@ -1,4 +1,5 @@
 # Implementation of Univariate Linear Regression
+
 ## Aim:
 To implement univariate Linear Regression to fit a straight line using least squares.
 ## Equipment’s required:
@@ -7,7 +8,7 @@ To implement univariate Linear Regression to fit a straight line using least squ
 ## Algorithm:
 
 ## Step 1:
-	Get the independent variable X and dependent variable Y.
+Get the independent variable X and dependent variable Y.
 
 ## Step 2:
 Calculate the mean of the X -values and the mean of the Y -values.
